@@ -1,0 +1,9 @@
+tabWidth: 4
+semi: true
+singleQuote: false
+useTabs: true
+htmlWhitespaceSensitivity: "css"
+embeddedLanguageFormatting: "auto"
+quoteProps: "consistent"
+bracketSpacing: false
+arrowParens: "always"
